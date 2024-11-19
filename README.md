@@ -4,6 +4,9 @@
 
 The Amazon ReviewIQ project aims to provide valuable insights into customer reviews using state-of-the-art machine learning models, fine-tuned for sentiment analysis. The project leverages models such as RoBERTa, LLaMA, and Mistral to classify reviews into positive and negative sentiments, providing actionable insights for customers and product managers in e-commerce.
 
+##Dataset
+To use my web scraped dataset of Amazon product reviews, you can download from my kaggle link : https://www.kaggle.com/datasets/rishintiw/amazon-reviews-scraped-dataset/data
+
 ## Project Steps
 
 1. **Data Collection**: 
